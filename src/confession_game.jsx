@@ -693,7 +693,7 @@ export default function ConfessionGame() {
             animation: "fadeIn 1s ease 1s both",
             opacity: 0,
           }}>
-            My bounty is as boundless<br />as the sea,and to your gentelness I say, I Love You.
+            My bounty is as boundless<br />as the sea, I Love You.
           </p>
           <p style={{
             fontFamily: "'Cormorant Garamond', serif",
