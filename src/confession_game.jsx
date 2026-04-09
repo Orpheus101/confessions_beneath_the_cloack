@@ -693,7 +693,7 @@ export default function ConfessionGame() {
             animation: "fadeIn 1s ease 1s both",
             opacity: 0,
           }}>
-            My bounty is as boundless<br />as the sea, I Love You.
+            My bounty is as boundless<br />as the sea,and to your gentelness I say, I Love You.
           </p>
           <p style={{
             fontFamily: "'Cormorant Garamond', serif",
@@ -702,7 +702,7 @@ export default function ConfessionGame() {
             fontStyle: "italic",
             animation: "fadeIn 1s ease 2s both",
             opacity: 0,
-          }}>— William Shakespeare</p>
+          }}>— Ayoub Hssine</p>
           <button
             onClick={() => setAllRead(false)}
             style={{
