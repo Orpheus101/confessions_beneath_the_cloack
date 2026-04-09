@@ -372,7 +372,7 @@ export default function ConfessionGame() {
               lineHeight: 1.2,
               marginBottom: "1.5rem",
               animation: "fadeIn 1s ease 0.6s both",
-            }}>Sara7a Ihsan</h1>
+            }}>For you...Ihsan</h1>
             <p style={{
               fontSize: "15px",
               color: "#4A6A8A",
