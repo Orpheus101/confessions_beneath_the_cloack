@@ -8,7 +8,7 @@ const letters = [
     warmColor: "#6B8FAD",
     phase: "opening",
     preview: "It took me time…",
-    content: `for you... Ihsan…
+    content: `sara7a Ihsan…
 
 It took me time, maybe more than I'd ever admit, to understand what was happening inside me.
 
