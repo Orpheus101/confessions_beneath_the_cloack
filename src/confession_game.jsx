@@ -23,7 +23,7 @@ I had once known love, and it left in silence what words could never repair, so 
     warmColor: "#C4A882",
     phase: "rising",
     preview: "Then you found your way back…",
-    content: `Then, somehow, you found your way back into my life.
+    content: `Then, somehow, you found your way into my life.
 
 At first, you were simply that rare kind of presence — a calm I didn't question, a friendship that felt like one of those golden moments we don't notice while living them, only after.
 
